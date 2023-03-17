@@ -5,7 +5,7 @@ Welcome to my portfolio repository on GitHub! This repository contains samples o
 Contents
 This repository contains the following files and directories:
 
-Projects: This directory contains samples of projects I have completed, including descriptions, code samples, and links to live demos or repositories.
+Projects: This directory contains samples of projects I have completed.
 Skills: This file contains information about my technical skills and areas of expertise.
 
 Getting Started
