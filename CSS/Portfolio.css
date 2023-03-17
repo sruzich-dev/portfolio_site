@@ -95,7 +95,7 @@ footer {
 /***** NAVBAR STYLING *****/
 .Navbar {
     overflow: hidden; /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
-    background-color: rgb(118, 0, 0); /* This colors the navbar black */
+    background-color: rgb(118, 0, 0); /* This colors the navbar */
     text-align: center;
     position: fixed; /* This keeps the navbar at the top of the screen as we scroll */
     top: 0; /* This ensures no space is displayed above the navbar */
